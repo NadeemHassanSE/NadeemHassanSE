@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Nadeem Hassan 👋
 
-<!--
-**NadeemHassanSE/NadeemHassanSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student | Flutter Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building mobile applications and exploring modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+- **Languages:** Dart, Python, Java, C++
+- **Mobile Development:** Flutter
+- **Backend:** FastAPI
+- **Database:** Firebase Cloud Firestore, Oracle SQL
+- **Tools:** Git, GitHub, VS Code, Android Studio
+
+### 📱 Featured Project
+
+**PharmaLink** – A cross-platform medicine availability application built with Flutter and FastAPI.
+
+### 🌱 Currently Learning
+
+- Artificial Intelligence
+- Deep Learning
+- Software Engineering
+
+### 🤝 Connect With Me
+
+- GitHub: [@NadeemHassanSE](https://github.com/NadeemHassanSE)
+- X: [@NadeemHassanSE](https://x.com/NadeemHassanSE)
+
+---
+
+⭐ *Learning, Building and Growing Every Day!*
